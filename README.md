@@ -3,8 +3,12 @@
 
 ps：
 1. Pre-requisites already been taken care like memory, swap, a,b …etc
+
 2. Three ways to deploy oracle 19C: graphic interface，slient，rpm.
+
 3.I will do  it   by  rpm  way!
+
+
 
 4. other
 The graphical interface is so dumbest. but  youtuber  AhmedBaraka  by  virsualbox   Successfully deployed：
